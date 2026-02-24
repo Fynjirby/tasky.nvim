@@ -11,10 +11,7 @@ Plug 'fynjirby/tasky.nvim'
 ### [lazy.nvim](https://github.com/folke/lazy.nvim)
 ```lua
 {
-    "fynjirby/tasky.nvim",
-    config = function()
-        require("tasky").setup()
-    end,
+    "fynjirby/tasky.nvim"
 },
 ```
 
